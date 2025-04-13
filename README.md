@@ -14,9 +14,9 @@
 - 📱 Mobile developer with **React Native** — building apps for both Android & iOS
 - 🧠 Passionate about **AI programming**, including ML integration and automation
 - 🔌 Experienced with **API integrations** — especially in **trading & financial markets**
+- ⚛️ Frontend development using **JavaScript**, **React.js**, and **Redux-Saga**
 - 📈 Focused on building real-world systems: bots, dashboards, admin panels, and more
-
----
+_____
 
 ### 🧰 Tech Stack
 
