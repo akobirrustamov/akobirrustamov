@@ -39,8 +39,8 @@ _____
 
 ### 📫 Let's Connect!
 
-- 💼 Upwork: [@akobir-rustamov](https://www.upwork.com/freelancers/~01xxxxxxxxxxxx)
-- 📬 Telegram: [@akobir_rustamov](https://t.me/akobir_rustamov)
+- 💼 Upwork: [@akobirr](https://www.upwork.com/freelancers/akobirr)
+- 📬 Telegram: [@akobir_rustamov](https://t.me/kobir_rustamov)
 - 🌐 Website: [bxu.uz](https://bxu.uz)
 
 ---
