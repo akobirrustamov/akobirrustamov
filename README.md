@@ -36,6 +36,22 @@ _____
 
 
 ---
+### 📊 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats Cards -->
+![Akobir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akobirr&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+<!-- Most Used Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akobirr&layout=compact&theme=default&hide_border=true&langs_count=6)
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akobirr&theme=default&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+
 
 ### 📫 Let's Connect!
 
