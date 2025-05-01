@@ -43,7 +43,7 @@ _____
 
 - 💼 Upwork: [@akobirr](https://www.upwork.com/freelancers/akobirr)
 - 📬 Telegram: [@akobir_rustamov](https://t.me/kobir_rustamov)
-- 🌐 Website: [bxu.uz](https://bxu.uz)
+- 🌐 Website: [rustamovakobir.uz](https://rustamovakobir.netlify.app)
 
 ---
 
