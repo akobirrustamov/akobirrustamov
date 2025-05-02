@@ -39,7 +39,7 @@ _____
 
 
 
-### 📫 Let's Connect!
+### 📫 Let's Connect
 
 - 💼 Upwork: [@akobirr](https://www.upwork.com/freelancers/akobirr)
 - 📬 Telegram: [@akobir_rustamov](https://t.me/kobir_rustamov)
