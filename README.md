@@ -2,12 +2,12 @@
 
 <p align="center">
   <strong>Full-stack Developer | AI & Automation Enthusiast | API Integrator</strong><br/>
-  🧠 I turn ideas into code — from bots to mobile apps to backend systems
+  🧠 I turn ideas into code — from bots to mobile apps to backend systems.
 </p>
 
 ---
 
-### 🚀 About Me!
+### 🚀 About Me
 
 - 💻 Strong experience in **Python**, **FastAPI**, **PostgreSQL**, and **Java/Spring Boot**
 - 🤖 Building advanced **Telegram bots** with **Aiogram** and async architecture
