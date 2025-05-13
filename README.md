@@ -7,7 +7,7 @@
 
 --------
 
-### 🚀 About Me
+### 🚀 About Me!
 
 - 💻 Strong experience in **Python**, **FastAPI**, **PostgreSQL**, and **Java/Spring Boot**
 - 🤖 Building advanced **Telegram bots** with **Aiogram** and async architecture
