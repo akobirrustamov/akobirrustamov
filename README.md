@@ -5,7 +5,7 @@
   🧠 I turn ideas into code — from bots to mobile apps to backend systems.
 </p>
 
-----------
+---------
 
 ### 🚀 About Me!
 
