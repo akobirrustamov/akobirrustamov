@@ -16,7 +16,7 @@
 - 🔌 Experienced with **API integrations** — especially in **trading & financial markets**
 - ⚛️ Frontend development using **JavaScript**, **React.js**, and **Redux-Saga**
 - 📈 Focused on building real-world systems: bots, dashboards, admin panels, and more
-----------
+---------
 
 ### 🧰 Tech Stack
 
