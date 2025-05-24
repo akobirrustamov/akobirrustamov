@@ -1,4 +1,4 @@
-<h1 align="center">👋 Assalomu alaykum, I'm Akobir Rustamov</h1>
+fefwwef<h1 align="center">👋 Assalomu alaykum, I'm Akobir Rustamov</h1>
 
 <p align="center">
   <strong>Full-stack Developer | AI & Automation Enthusiast | API Integrator</strong><br/>
