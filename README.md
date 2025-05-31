@@ -1,27 +1,11 @@
 <h1 align="center">👋 Assalomu alaykum, I'm Akobir Rustamov</h1>
 
 <p align="center">
-  <strong>Full-stack Developer | AI & Automation Enthusiast | API Integrator</strong><br/>
-  🧠 I turn ideas into code — from bots to mobile apps to backend systems.
+  <strong>💻 Full-stack Developer | 🤖 AI & Automation Enthusiast | 🔌 API Integrator</strong><br/>
+  <em>🧠 I turn ideas into code — from bots to mobile apps to backend systems.</em>
 </p>
 
---------
-
-
-### 🚀 About Me!
-
-- 💻 Strong experience in **Python**, **FastAPI**, **PostgreSQL**, and **Java/Spring Boot**
-- 🤖 Building advanced **Telegram bots** with **Aiogram** and async architecture
-- 📱 Mobile developer with **React Native** — building apps for both Android & iOS
-- 🧠 Passionate about **AI programming**, including ML integration and automation
-- 🔌 Experienced with **API integrations** — especially in **trading & financial markets**
-- ⚛️ Frontend development using **JavaScript**, **React.js**, and **Redux-Saga**
-- 📈 Focused on building real-world systems: bots, dashboards, admin panels, and more
---------
-
-### 🧰 Tech Stack
-
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -31,20 +15,49 @@
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Aiogram-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-Programming-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Programming-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Trading_APIs-009688?style=for-the-badge"/>
-</div>
-
-
-
-
-
-
-### 📫 Let's Connect
-
-- 💼 Upwork: [@akobirr](https://www.upwork.com/freelancers/akobirr)
-- 📬 Telegram: [@akobir_rustamov](https://t.me/kobir_rustamov)
-- 🌐 Website: [rustamovakobir.uz](https://rustamovakobir.netlify.app)
+</p>
 
 ---
 
+### 🚀 About Me
+
+- ⚙️ **Languages & Frameworks**: Python, FastAPI, Java, Spring Boot, JavaScript, React.js, React Native
+- 🤖 **Bot Development**: Mastering Telegram bots with **Aiogram** and async programming
+- 📱 **Mobile Apps**: Developing cross-platform apps using **React Native**
+- 🧠 **AI & Automation**: Integrating AI/ML and automating systems for real-world use
+- 📊 **APIs & Systems**: Skilled in **RESTful API** design and **trading integrations**
+- 🛠️ **Tools**: Git, Docker, Postman, VS Code, IntelliJ IDEA
+
+---
+
+### 📈 My Projects Include:
+
+- 🎯 Telegram voting & application bots with file uploads and status tracking  
+- 📊 Real-time admin dashboards with export to Excel/PDF  
+- 🎥 Video-based tasks with localStorage sync and smart timing  
+- 🧾 Nomenklatura & document handling systems with React + Spring Boot  
+- 🌐 SEO-ready university websites with Google/Yandex indexing
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/akobirr" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+  <a href="https://t.me/kobir_rustamov" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://rustamovakobir.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💡 <em>“Code is not just syntax — it's creativity made executable.”</em>
+</p>
