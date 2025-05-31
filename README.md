@@ -1,7 +1,8 @@
 <h1 align="center">👋 Assalomu alaykum, I'm Akobir Rustamov</h1>
 
+
 <p align="center">
-  <strong>💻 Full-stack Developer | 🤖 AI & Automation Enthusiast | 🔌 API Integrator</strong><br/>
+  <strong>💻 Full-stack Developer | 🤖 AI & Automation Enthusiast | 📱 Mobile Developer | 🤖 Telegram Bot Developer | 🔌 API Integrator</strong><br/>
   <em>🧠 I turn ideas into code — from bots to mobile apps to backend systems.</em>
 </p>
 
