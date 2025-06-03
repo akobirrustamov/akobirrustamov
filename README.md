@@ -3,7 +3,7 @@
 
 <p align="center">
   <strong>💻 Full-stack Developer | 🤖 AI & Automation Enthusiast | 📱 Mobile Developer |<br/> 🤖 Telegram Bot Developer | 🔌 API Integrator</strong><br/>
-  <em>🧠 I turn ideas into code — from bots to mobile apps to backend systems</em>
+  <em>🧠 I turn ideas into code — from bots to mobile apps to backend systems.</em>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Trading_APIs-009688?style=for-the-badge"/>
 </p>
 
-----
+---
 
 ### 🚀 About Me
 
@@ -31,7 +31,7 @@
 - 📊 **APIs & Systems**: Skilled in **RESTful API** design and **trading integrations**
 - 🛠️ **Tools**: Git, Docker, Postman, VS Code, IntelliJ IDEA
 
-----
+---
 
 ### 📈 My Projects Include:
 
@@ -41,7 +41,7 @@
 - 🧾 Nomenklatura & document handling systems with React + Spring Boot  
 - 🌐 SEO-ready university websites with Google/Yandex indexing
 
-----
+---
 
 ### 📫 Let's Connect
 
@@ -57,7 +57,7 @@
   </a>
 </p>
 
-----
+---
 
 <p align="center">
   💡 <em>“Code is not just syntax — it's creativity made executable.”</em>
