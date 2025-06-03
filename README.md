@@ -1,4 +1,4 @@
-<h1 align="center">👋 Assalomu alaykum, I'm Akobir Rustamov</h1>
+<h1 align="center">👋 Assalomu alaykum, I'm Akobir Rustamov.</h1>
 
 
 <p align="center">
