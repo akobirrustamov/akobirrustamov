@@ -38,7 +38,7 @@
 - 🎯 Telegram voting & application bots with file uploads and status tracking  
 - 📊 Real-time admin dashboards with export to Excel/PDF  
 - 🎥 Video-based tasks with localStorage sync and smart timing  
-- 🧾 Nomenklatura & document handling systems with React + Spring Boot  
+- 🧾 Document handling systems with React + Spring Boot  
 - 🌐 SEO-ready university websites with Google/Yandex indexing
 
 ----
