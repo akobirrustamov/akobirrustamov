@@ -3,7 +3,7 @@
 
 <p align="center">
   <strong>💻 Full-stack Developer | 🤖 AI & Automation Enthusiast | 📱 Mobile Developer |<br/> 🤖 Telegram Bot Developer | 🔌 API Integrator</strong><br/>
-  <em>🧠 I turn ideas into code — from bots to mobile apps to backend systems.</em>
+  <em>🧠 I turn ideas into code — from bots to mobile apps to backend systems..</em>
 </p>
 
 <p align="center">
