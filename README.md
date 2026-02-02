@@ -59,6 +59,8 @@
 
 ----
 
+<img src="./game.gif>
+
 <p align="center">
   💡 <em>“Code is not just syntax — it's creativity made executable.”</em>
 </p>
