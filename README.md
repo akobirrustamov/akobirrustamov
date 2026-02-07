@@ -39,7 +39,7 @@
 - 📊 Real-time admin dashboards with export to Excel/PDF  
 - 🎥 Video-based tasks with localStorage sync and smart timing  
 - 🧾 Document handling systems with React + Spring Boot  
-- 🌐 SEO-ready university websites with Google/Yandex indexing
+- 🌐 SEO-ready  websites with Google/Yandex indexing
 
 ----
 
