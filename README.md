@@ -33,16 +33,6 @@
 
 ----
 
-### 📈 My Projects Include:
-
-- 🎯 Telegram voting & application bots with file uploads and status tracking  
-- 📊 Real-time admin dashboards with export to Excel/PDF  
-- 🎥 Video-based tasks with localStorage sync and smart timing  
-- 🧾 Document handling systems with React + Spring Boot  
-- 🌐 SEO-ready  websites with Google/Yandex indexing
-
-----
-
 ### 📫 Let's Connect
 
 <p align="center">
